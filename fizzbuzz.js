@@ -15,4 +15,5 @@ module.exports = function () {
     }
     arr.push(number);
   }
+  return arr;
 }
